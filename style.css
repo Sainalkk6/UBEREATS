@@ -495,7 +495,7 @@ footer hr{
 
 /*  */
 
-@media only screen and (min-width:770px) {
+@media only screen and (min-width:921px) {
     .mobile{
         display: none;
     }
@@ -508,7 +508,7 @@ footer hr{
 
 
 
-@media only screen and (max-width:770px) {
+@media only screen and (max-width:921px) {
 
     *{
         padding: 0;
@@ -603,6 +603,7 @@ footer hr{
         position: absolute;
         top: 104px;
         left: 3px;
+        width: 100%;
     }
     
     .mobile-main-contents h2{
